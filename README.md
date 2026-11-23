@@ -21,3 +21,6 @@ Desktopová aplikace pro diagnostiku síťového připojení.
 - Systémový příkaz ping
 - Traceroute (Linux/macOS; na Windows tracert)
 - Oficiální Ookla Speedtest CLI pro test rychlosti
+
+
+Aplikace je ve fázi vývoje a testování.
