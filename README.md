@@ -1,4 +1,4 @@
-# NetTrace Pro
+# NetTrace Pro 0.7.4
 
 Desktopová aplikace pro diagnostiku síťového připojení.
 
