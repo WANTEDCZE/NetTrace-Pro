@@ -44,3 +44,6 @@ Výsledný soubor bude `dist\NetTracePro.exe`. Build vyžaduje internet pro inst
 ## Datové umístění
 
 Historie je ukládána do `%USERPROFILE%\.nettrace_pro\history.sqlite3`. Nastavení aplikace používá Qt `QSettings`.
+
+<img width="1282" height="1004" alt="NetTrace-Pro_0 8 0" src="https://github.com/user-attachments/assets/46c683cf-93e2-4fc2-bfe2-6bcfb537c1ae" />
+
